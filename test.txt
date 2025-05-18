@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is my first files from Bhikshu DEV2
+=======
+this is my first files by Bhikshu
+>>>>>>> origion/master
