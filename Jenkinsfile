@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git url: 'https://github.com/bhikshu/AWSTUT.git', branch: 'master' // Replace with your repo details
+                git url: 'https://github.com/bhikshu/AWSTUT.git', branch: 'dev1' // Replace with your repo details
             }
         }
 
